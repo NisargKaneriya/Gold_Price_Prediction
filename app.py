@@ -60,7 +60,7 @@ import streamlit as st
 import requests
 
 # 🚀 Replace this with your actual FastAPI URL on Render
-API_URL = "https://your-fastapi-app.onrender.com"
+API_URL = "https://gold-price-prediction-nadr.onrender.com"
 
 # Streamlit UI Setup with improved layout
 st.set_page_config(page_title="Gold Price Prediction", layout="centered")
